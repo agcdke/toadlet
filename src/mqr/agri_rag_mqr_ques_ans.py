@@ -121,3 +121,4 @@ def workflow_fred_mqr_qa():
     
 if __name__ == '__main__':
     workflow_fred_mqr_qa()
+    print("AgriQA Streamlit app is up and running!")

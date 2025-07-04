@@ -239,4 +239,5 @@ def workflow_create_vector_embedding():
     
 if __name__ == '__main__':
     workflow_create_vector_embedding()
+    print("Vectorstore created!")
     
