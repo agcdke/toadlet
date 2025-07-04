@@ -53,3 +53,6 @@ jobs:
 
       - name: Create vectorstore
         run: python src/mqr/agri_unece_create_vs.py
+
+      - name: Create Streamlit QA app
+        run: python src/mqr/agri_rag_mqr_ques_ans.py
